@@ -1,0 +1,10 @@
+D:\Work\ChessClone\src\Nexcel.ChessResult.Data\bin\Debug\Nexcel.ChessResult.Data.dll.config
+D:\Work\ChessClone\src\Nexcel.ChessResult.Data\bin\Debug\Nexcel.ChessResult.Data.dll
+D:\Work\ChessClone\src\Nexcel.ChessResult.Data\bin\Debug\Nexcel.ChessResult.Data.pdb
+D:\Work\ChessClone\src\Nexcel.ChessResult.Data\bin\Debug\EntityFramework.dll
+D:\Work\ChessClone\src\Nexcel.ChessResult.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\ChessClone\src\Nexcel.ChessResult.Data\bin\Debug\EntityFramework.xml
+D:\Work\ChessClone\src\Nexcel.ChessResult.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\ChessClone\src\Nexcel.ChessResult.Data\obj\Debug\Nexcel.ChessResult.Data.dll
+D:\Work\ChessClone\src\Nexcel.ChessResult.Data\obj\Debug\Nexcel.ChessResult.Data.pdb
+D:\Work\ChessClone\src\Nexcel.ChessResult.Data\obj\Debug\Nexcel.ChessResult.Data.csprojResolveAssemblyReference.cache

@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexcel.ChessResult.Demo", "Nexcel.ChessResult.Demo\Nexcel.ChessResult.Demo.csproj", "{E5554D49-87A5-48B1-A015-50A873819248}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexcel.ChessResult.Data", "src\Nexcel.ChessResult.Data\Nexcel.ChessResult.Data.csproj", "{565DDFFB-03FF-401D-BFF3-189552E65137}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demo", "Demo", "{31EEAA5E-09C6-4189-BE7F-61593CB9B7A8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Migrate", "Migrate", "{56FA18FF-7BCC-4531-BE71-EAA1FB2B8CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexcel.ChessResult.Migration", "Nexcel.ChessResult.Migration\Nexcel.ChessResult.Migration.csproj", "{99E56C08-5843-461C-90D3-C4EA35CFF288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexcel.ChessResult.Demo", "..\ChessResult\src\Nexcel.ChessResult.Demo\Nexcel.ChessResult.Demo.csproj", "{E5554D49-87A5-48B1-A015-50A873819248}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,19 +19,24 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E5554D49-87A5-48B1-A015-50A873819248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E5554D49-87A5-48B1-A015-50A873819248}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E5554D49-87A5-48B1-A015-50A873819248}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E5554D49-87A5-48B1-A015-50A873819248}.Release|Any CPU.Build.0 = Release|Any CPU
 		{565DDFFB-03FF-401D-BFF3-189552E65137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{565DDFFB-03FF-401D-BFF3-189552E65137}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{565DDFFB-03FF-401D-BFF3-189552E65137}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{565DDFFB-03FF-401D-BFF3-189552E65137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99E56C08-5843-461C-90D3-C4EA35CFF288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E56C08-5843-461C-90D3-C4EA35CFF288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E56C08-5843-461C-90D3-C4EA35CFF288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E56C08-5843-461C-90D3-C4EA35CFF288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5554D49-87A5-48B1-A015-50A873819248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5554D49-87A5-48B1-A015-50A873819248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5554D49-87A5-48B1-A015-50A873819248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5554D49-87A5-48B1-A015-50A873819248}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{99E56C08-5843-461C-90D3-C4EA35CFF288} = {56FA18FF-7BCC-4531-BE71-EAA1FB2B8CCB}
 		{E5554D49-87A5-48B1-A015-50A873819248} = {31EEAA5E-09C6-4189-BE7F-61593CB9B7A8}
 	EndGlobalSection
 EndGlobal

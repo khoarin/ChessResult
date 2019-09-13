@@ -1,0 +1,15 @@
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\obj\Debug\Nexcel.ChessResult.Migration.csprojResolveAssemblyReference.cache
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\bin\Debug\Nexcel.ChessResult.Migration.dll.config
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\bin\Debug\Nexcel.ChessResult.Migration.dll
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\bin\Debug\Nexcel.ChessResult.Migration.pdb
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\bin\Debug\EntityFramework.dll
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\bin\Debug\Nexcel.ChessResult.Data.dll
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\bin\Debug\Nexcel.ChessResult.Data.pdb
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\bin\Debug\EntityFramework.xml
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\obj\Debug\Nexcel.ChessResult.Migration.dll
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\obj\Debug\Nexcel.ChessResult.Migration.pdb
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\obj\Debug\Nexcel.ChessResult.Migration.Migrations.ChessResultv10.resources
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\obj\Debug\Nexcel.ChessResult.Migration.csproj.GenerateResource.Cache
+D:\Work\ChessClone\Nexcel.ChessResult.Migration\obj\Debug\Nexcel.ChessResult.Migration.Migrations.ChessResultv11.resources
